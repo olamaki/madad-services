@@ -43,7 +43,7 @@ To run this project, you need:
 
 4.  **Set up environment variables:**
     Create a file named `.env` in the project's root directory and add your database connection details. This file should be in your `.gitignore`.
-    
+
     Example `.env` file:
     ```env
     DB_HOST=your_db_host
