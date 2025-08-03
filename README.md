@@ -23,16 +23,22 @@ To run this project, you need:
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/olamaki/madad-services.git](https://github.com/olamaki/madad-services.git)
+    git clone git@github.com:olamaki/madad-services.git
+    ```sh
     cd madad-services
     ```
 
 2.  **Create and activate a virtual environment:**
     ```sh
     python -m venv venv
+    ```
+
     # For Windows:
+    ```sh
     venv\Scripts\activate
+    ```
     # For macOS and Linux:
+    ```sh
     source venv/bin/activate
     ```
 
