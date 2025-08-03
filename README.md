@@ -22,9 +22,8 @@ To run this project, you need:
 ## Installation
 
 1.  **Clone the repository:**
-    ```sh
+    ```
     git clone git@github.com:olamaki/madad-services.git
-    ```sh
     cd madad-services
     ```
 
