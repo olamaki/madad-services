@@ -35,7 +35,7 @@ To run this project, you need:
 
     # For Windows:
     ```sh
-    venv\Scripts\activate
+    .\venv\Scripts\activate
     ```
     # For macOS and Linux:
     ```sh
